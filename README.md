@@ -2,7 +2,7 @@
 ---
 ## Hola 🌎 Tech! Soy Mar 👋
 
-Entusiasta de la programación y el aprendizaje continuo.
+Entusiasta de la programación y el aprendizaje continuo. 
 
 ---
 ## 💡 Tecnologías que utilizo y aprendo
@@ -12,7 +12,8 @@ Entusiasta de la programación y el aprendizaje continuo.
 - 🗄️ **Base de datos:** MongoDB, MySQL
 - 🛠️ **Control de versiones:** Git & GitHub
 - 🧠 **Gestión de tareas:** Trello
-- 🗣️ **Nivel de inglés:** B2 
+- 🗣️ **Nivel de inglés:** B2
+- 📊 Visión analítica: background en Contabilidad, Auditoría y Sueldos.
   
 ---
 ## 🔧 Stack principal
@@ -22,9 +23,7 @@ Entusiasta de la programación y el aprendizaje continuo.
 
 ## 🧐 Dato curioso
 
-- Vengo de las Cs. Económicas, y tengo experiencia en Auditoría, Contabilidad y Sueldos.
-  
-- Puedo aportar la mirada del usuario y entender sus necesidades desde un ángulo más cercano.
+- Soy profesional en Cs. Económicas, y tengo la capacidad de interpretar los requerimientos del usuario desde una perspectiva funcional y cercana, favoreciendo el diseño de aplicaciones y servicios.
 
 ---
 
