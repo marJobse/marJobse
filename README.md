@@ -13,7 +13,7 @@ Entusiasta de la programación y el aprendizaje continuo.
 - 🛠️ **Control de versiones:** Git & GitHub
 - 🧠 **Gestión de tareas:** Trello
 - 🗣️ **Nivel de inglés:** B2
-- 📊 **Visión analítica:** background en Contabilidad, Auditoría y Sueldos.
+- 📊 **Visión analítica:** background en Contabilidad, Auditoría y Sueldos
   
 ---
 ## 🔧 Stack principal
